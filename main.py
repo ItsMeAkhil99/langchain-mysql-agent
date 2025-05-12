@@ -19,7 +19,7 @@ response = create_mysql_db_tool(
     port="3306",
     database_name="test_agent",
     model_name="gpt-3.5-turbo",
-    query="Tell me how many female drivers who are blonde"
+    query="Tell me about the database"
 )
 
 print("🧠 Response:\n", response)
