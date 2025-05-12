@@ -34,3 +34,13 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 
 # Install dependencies
 pip install -r requirements.txt
+
+#run main file
+python main.py
+
+#run main file
+python main.py
+```
+
+
+#### Star 🌟 this Repo if you find this useful !!
